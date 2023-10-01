@@ -1,4 +1,0 @@
-He dejado un zip del proyecto para practicar como podría desplegar el proyecto en un servidor de apache,
-con definir las configuraciones de vite con base: '/heroes-exp/' y colocar el basename del BrowserRouter
-como "basename='/heroes-exp'" ya con eso es suficiente, para el manejo de imágenes usar variables de
-ambiente en las rutas de las imágenes para que funcione en producción. :)
